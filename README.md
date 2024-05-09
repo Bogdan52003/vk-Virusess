@@ -1,4 +1,4 @@
-swifui fast project in last day
+swifui fast project 
 
 
 <img width="305" alt="Снимок экрана 2024-03-27 в 13 23 07" src="https://github.com/Bogdan52003/vk-Virusess/assets/125573358/8b35770d-7bd5-4be6-8d9a-eb5f9fbbb474">
